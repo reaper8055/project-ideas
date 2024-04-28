@@ -1,4 +1,6 @@
-Certainly! Here's a more detailed description and example pseudo code for each of the project ideas related to concurrency in Go:
+# Generated using ChatGPT:
+
+Here's a more detailed description and example pseudo code for each of the project ideas related to concurrency in Go:
 
 ### 1. Concurrent Web Scraper
 **Description:**
